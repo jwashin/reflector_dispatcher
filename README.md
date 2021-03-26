@@ -19,9 +19,6 @@ thrown, instead are returned in an orderly manner.
 ## Usage
 
 A simple usage example:
-## Usage
-
-A simple usage example:
 
 ```dart
 import 'package:reflector_dispatcher/reflector_dispatcher.dart';
@@ -110,4 +107,4 @@ void printCount(num aCount) {
 
 Please file feature requests and bugs at the [issue tracker][tracker].
 
-[tracker]: http://example.com/issues/replaceme
+[tracker]: https://github.com/jwashin/reflector_dispatcher
